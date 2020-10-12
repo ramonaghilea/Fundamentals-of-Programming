@@ -1,0 +1,10 @@
+170,Critical Thinking,Alexandra Holland
+167,Analysis,Alexandra Holland
+112,Music,Camelia Shepherd
+184,History,George Mal
+87,Logic,Tara
+82,Psychology,Anemona Frich
+175,Biology,Anemona Frich
+161,Latin,Mariana Hill
+6,jus,io
+13,Astronomy,Camelia Shepherd
